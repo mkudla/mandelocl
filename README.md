@@ -1,7 +1,7 @@
 # mandelocl - using OpenCL from C - demonstration with Mandelbrot set
 
-![Screenshot](https://github.com/mkudla/madelocl/blob/master/screen1.png)
-![Screenshot](https://github.com/mkudla/madelocl/blob/master/screen2.png)
+![Screenshot](https://github.com/mkudla/mandelocl/blob/master/screen1.png)
+![Screenshot](https://github.com/mkudla/mandelocl/blob/master/screen2.png)
 
 ## use
 
