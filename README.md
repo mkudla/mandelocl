@@ -1,5 +1,10 @@
 # mandelocl - using OpenCL from C - demonstration with Mandelbrot set
 
+![Screenshot](https://github.com/mkudla/madelocl/blob/master/screen1.png)
+![Screenshot](https://github.com/mkudla/madelocl/blob/master/screen2.png)
+
+## use
+
 Use keys to move around 
 
 z - zoom in
@@ -14,6 +19,7 @@ c - toggle on / off openCL
 
 
 ## compilation
+
 // To compile run:
 //64 bit:
 
